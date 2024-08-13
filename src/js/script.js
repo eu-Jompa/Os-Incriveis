@@ -58,6 +58,6 @@ function onInformacoes(indice) {
 
 window.addEventListener('click',()=>{
     var audio = document.getElementById('music');
-    audio.volume = 0.1;
+    audio.volume = 0.5;
     audio.play();
 }, {once:true});
