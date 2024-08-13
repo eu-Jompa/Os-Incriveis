@@ -120,13 +120,13 @@ main .buttons button{
     margin: 10px;
     border-radius: 10px;
     padding: 4px;
-    border: solid 2px;
+    border: solid 3px;
     background-color: white;
-    border-color: #FFFF00 ;
+    border-color: #ffd900 ;
     
 
 }
 main .buttons button.ativo{
     background-color: #AD332C;
-    border: solid 2px black
+    border: solid 3px black
 }
